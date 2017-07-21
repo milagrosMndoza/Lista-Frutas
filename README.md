@@ -2,7 +2,7 @@
 ## Mi proyecto 
 
 
-![Con titulo](pictures/fruta.png "frutas")
+![Con titulo](pictures/fruta.jpg "frutas")
 
 1 En este proyecto vamos a utilizar el *MARKDOWN*:
 	*Que permite dar **formato** al texto al igual que un HTML, estas modificaciones las hacemos dentro del README.md
