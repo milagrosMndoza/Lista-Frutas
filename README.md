@@ -2,25 +2,25 @@
 ## Mi proyecto 
 
 
-![Con titulo](pictures/fruta.jpg "frutas")
+![Con titulo](assets/fruta.jpg "frutas")
 
 1 En este proyecto vamos a utilizar el *MARKDOWN*:
 	*Que permite dar **formato** al texto al igual que un HTML, estas modificaciones las hacemos dentro del README.md
 
 
-![Alt-Text](markdown.png)
+![Alt-Text](assets/markdown.png)
 
 2 Tambien debemos de elaborar el codigo en nuestros:
 > archivos html y js respectivamente.
 
 
 Este es mi **código en html**:
-![Alt-Text](html.png)
+![Alt-Text](assets/html.png)
 
 
 Este es mi codigo en javascript:
 
-![Alt-Text](img/js.png)
+![Alt-Text](assets//js.png)
 
 ***
 [link del capitan][1]
