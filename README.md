@@ -1,10 +1,8 @@
-### Lista de frutas
+# Lista de frutas
+## Mi proyecto 
 
 
-
-![Alt-Text](fruta.jpg)
-
-
+![Con titulo](pictures/fruta.png "frutas")
 
 1 En este proyecto vamos a utilizar el *MARKDOWN*:
 	*Que permite dar **formato** al texto al igual que un HTML, estas modificaciones las hacemos dentro del README.md
